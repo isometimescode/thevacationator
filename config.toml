@@ -1,4 +1,4 @@
-baseurl = "https://isometimescode.github.com/thevacationator"
+baseurl = "http://thevacationator.com"
 languageCode = "en-us"
 title = "The Vacationator"
 theme = "hugo-future-imperfect"

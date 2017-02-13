@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://isometimescode.github.com/thevacationator/post/welcome/</loc>
+    <lastmod>2017-02-12T12:36:27-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://isometimescode.github.com/thevacationator/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://isometimescode.github.com/thevacationator/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isometimescode.github.com/thevacationator/post/</loc>
+    <lastmod>2017-02-12T12:36:27-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isometimescode.github.com/thevacationator/</loc>
+    <lastmod>2017-02-12T12:36:27-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://isometimescode.github.com/thevacationator/categories/test/</loc>
+    <lastmod>2017-02-12T12:36:27-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

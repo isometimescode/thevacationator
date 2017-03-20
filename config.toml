@@ -7,18 +7,16 @@ paginate = 3
 # temp for GitHub Pages
 publishDir = "docs"
 # disqusShortname = "shortname"
-# googleAnalytics = "UA-73238590-2"
+googleAnalytics = "UA-73238590-2"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
-    description          = "The Vacationator: RV Travel & Adventures in a converted Ford Transit all over the United States. Making vacations great again"
-    # This will appear on the top left of the navigation bar
-    navbarTitle          = "making vacations great again"
-    # Social media buttons that appear on the sidebar
+    description          = """The Vacationator: RV Travel & Adventures \
+                              in a converted Ford Transit all over the United States. \
+                              Making vacations great again"""
+    navbarTitle          = "Vacationator"
     socialAppearAtTop    = true
     socialAppearAtBottom = false
-    # set this to the section name if section is not post
-    # viewMorePostLink     = "/blog/"
 
 # Optional Params
     categoriesByCount    = true
@@ -29,8 +27,7 @@ publishDir = "docs"
     loadFavicon          = false
     faviconVersion       = ""
 
-    # Load custom CSS or JavaScript files. This replaces the deprecated params
-    # minifiedFilesCSS and minifiedFilesJS. The variable is an array so that you
+    # Load custom CSS or JavaScript files. The variable is an array so that you
     # can load multiple files if necessary. You can also load the standard theme
     # files by adding the value, "default".
     # customCSS            = ["default", "/path/to/file"]
@@ -44,8 +41,9 @@ publishDir = "docs"
 # This is optional, but it's suggested to use
 [params.intro]
     header    = "The Vacationator"
-    paragraph = "RV Adventures in a Converted Ford Transit"
-    about     = ""
+    paragraph = "Making Vacations Great Again"
+    about     = """The Vacationator is a converted Ford Transit cargo van, \
+                   and usually starts her RV Adventures from the Pacific Northwest."""
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended

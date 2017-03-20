@@ -4,8 +4,6 @@ title = "The Vacationator"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-# temp for GitHub Pages
-publishDir = "docs"
 # disqusShortname = "shortname"
 googleAnalytics = "UA-73238590-2"
 

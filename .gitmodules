@@ -1,6 +1,3 @@
 [submodule "themes/hugo-future-imperfect"]
 	path = themes/hugo-future-imperfect
 	url = https://github.com/isometimescode/hugo-future-imperfect
-[submodule "hugo-src"]
-	path = hugo-src
-	url = https://github.com/spf13/hugo.git

@@ -1,4 +1,4 @@
-baseurl = "http://thevacationator.com"
+baseURL = "http://thevacationator.com"
 languageCode = "en-us"
 title = "The Vacationator"
 theme = "hugo-future-imperfect"
@@ -22,8 +22,7 @@ googleAnalytics = "UA-73238590-2"
     # The set of favicons used are based on the write-up from this link:
     # https://github.com/audreyr/favicon-cheat-sheet
     # Please see the favicon partial template for more information
-    loadFavicon          = false
-    faviconVersion       = ""
+    loadFavicon          = true
 
     # Load custom CSS or JavaScript files. The variable is an array so that you
     # can load multiple files if necessary. You can also load the standard theme

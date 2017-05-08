@@ -1,5 +1,7 @@
 # /usr/bin/bash
 
+set -e
+
 # On Codeship files are stored in the the ~/clone directory
 cd ~/clone/
 
@@ -22,8 +24,8 @@ dpkg -x hugo.deb hugo-build
 
 # Output the Hugo version for nice logging,
 # and then generate new static files in the normal public dir
-./hugo-build/usr/bin/hugo version
-./hugo-build/usr/bin/hugo
+./hugo-build/usr/local/bin/hugo version
+./hugo-build/usr/local/bin/hugo
 
 # Then we can add all the newly generated files
 cd public

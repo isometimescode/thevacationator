@@ -34,6 +34,8 @@ googleAnalytics = "UA-73238590-2"
     # customCSS            = ["/css/main.min.css"]
     # customJS             = ["/js/main.min.js"]
 
+    googleMapsKey        = "AIzaSyD9ochDWB4pno73BpcAScD1wYFrjNmNB38"
+
 # params.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]

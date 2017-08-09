@@ -7,6 +7,9 @@ paginate = 3
 disqusShortname = "thevacationator"
 googleAnalytics = "UA-73238590-2"
 
+[blackfriday]
+    hrefTargetBlank = true
+
 [params]
     # Sets the meta tag description, usually reserved for the main page
     description          = """The Vacationator: RV Travel & Adventures \

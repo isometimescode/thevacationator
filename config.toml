@@ -1,4 +1,4 @@
-baseURL = "http://thevacationator.com"
+baseURL = "https://www.thevacationator.com"
 languageCode = "en-us"
 title = "The Vacationator"
 theme = "hugo-future-imperfect"

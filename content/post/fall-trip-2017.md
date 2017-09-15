@@ -1,5 +1,5 @@
 +++
-description = "Pacifc Northwest, Canada, Niagra Falls, Black Hills"
+description = "Pacifc Northwest, Canada, Niagara Falls, Black Hills"
 linktitle = "Fall 2017 Trip"
 author = "trex"
 type = "post"

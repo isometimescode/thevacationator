@@ -1,3 +1,4 @@
 [submodule "themes/hugo-future-imperfect"]
 	path = themes/hugo-future-imperfect
 	url = https://github.com/isometimescode/hugo-future-imperfect
+	branch = release

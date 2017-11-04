@@ -1,6 +1,6 @@
-+++
-title = "About Us"
-+++
+---
+title: "About Us"
+---
 
 {{< img-post "/img" "about-jeff.jpg" "Jeff" "center" >}}
 

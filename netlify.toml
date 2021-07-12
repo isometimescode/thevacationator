@@ -1,0 +1,17 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify"
+
+# default Go version available on xenial:
+# https://github.com/netlify/build-image/blob/xenial/included_software.md
+GO_VERSION = "1.12"
+
+HUGO_VERSION = "0.85.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy]
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"

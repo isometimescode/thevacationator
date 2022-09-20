@@ -16,5 +16,5 @@ googleAnalytics = "UA-73238590-2"
 
     # https://themes.gohugo.io/themes/gohugo-theme-ananke/#update-font-or-body-classes
     body_classes = "sans-serif"
-    background_color_class = "bg-washed-yellow"
+    background_color_class = "bg-near-black"
     site_logo = "img/logo.png"

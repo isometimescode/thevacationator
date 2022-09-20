@@ -1,5 +1,5 @@
 module github.com/isometimescode/thevacationator
 
-go 1.16
+go 1.19
 
-require github.com/theNewDynamic/gohugo-theme-ananke v2.6.7+incompatible // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220907123632-5a8b531a7ce2 // indirect

@@ -2,7 +2,6 @@ baseURL = "https://www.thevacationator.com"
 languageCode = "en-us"
 title = "The Vacationator"
 #theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-googleAnalytics = "UA-73238590-2"
 
 [module]
     [[module.imports]]
